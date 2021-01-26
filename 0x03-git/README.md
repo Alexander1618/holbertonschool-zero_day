@@ -1,0 +1,1 @@
+This project show the first experience with git
